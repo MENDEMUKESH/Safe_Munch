@@ -1,0 +1,2 @@
+SafeMunch: Your Food Safety Assistant 🍏
+SafeMunch is an easy-to-use app designed to help you make healthier food choices by scanning product barcodes. The app identifies harmful ingredients, preservatives, and chemicals in food products and provides a health score based on their safety. With SafeMunch, you can quickly find out whether a product contains harmful substances and get healthier alternatives. This tool empowers you to make informed decisions about your diet and ensures that every bite is a safe one.
